@@ -14,10 +14,10 @@
                </div>
 </section>
 
-<div class="max-w-5xl mx-auto p-6">
+<div class="max-w-5xl mx-auto p-6" data-aos="fade-up" data-aos-delay="200">
      
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-        <div class="bg-white shadow-lg rounded-lg p-4">
+        <div class="bg-white shadow-lg rounded-lg p-4" data-aos="fade-up" data-aos-delay="200">
             <div class="flex flex-row justify-between">
                 <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Semester 1</h2>
                 <a href="">
@@ -37,7 +37,7 @@
                 <li class="text-gray-700">Dasar Sistem Informasi</li>
             </ul>
         </div>
-        <div class="bg-white shadow-lg rounded-lg p-4">
+        <div class="bg-white shadow-lg rounded-lg p-4" data-aos="fade-up" data-aos-delay="200">
              <div class="flex flex-row justify-between">
                 <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Semester 2</h2>
                 <a href="">
@@ -58,7 +58,7 @@
                 <li class="text-gray-700">Praktikum Dasar Pemrograman Java</li>
             </ul>
         </div>
-        <div class="bg-white shadow-lg rounded-lg p-4">
+        <div class="bg-white shadow-lg rounded-lg p-4" data-aos="fade-up" data-aos-delay="200">
              <div class="flex flex-row justify-between">
                 <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Semester 3</h2>
                 <a href="">
@@ -78,7 +78,7 @@
                 <li class="text-gray-700">Praktikum Pemodelan dan Rekayasa Proses Bisnis</li>
             </ul>
         </div>
-        <div class="bg-white shadow-lg rounded-lg p-4">
+        <div class="bg-white shadow-lg rounded-lg p-4" data-aos="fade-up" data-aos-delay="200">
              <div class="flex flex-row justify-between">
                 <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Semester 4</h2>
                 <a href="">
@@ -97,7 +97,7 @@
                 <li class="text-gray-700">Praktikum Pemrograman Berorientasi Objek</li>
             </ul>
         </div>
-        <div class="bg-white shadow-lg rounded-lg p-4">
+        <div class="bg-white shadow-lg rounded-lg p-4" data-aos="fade-up" data-aos-delay="200">
              <div class="flex flex-row justify-between">
                 <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Semester 5</h2>
                 <a href="">
@@ -119,7 +119,7 @@
             </ul>
         </div>
 
-        <div class="flex flex-col gap-6">
+        <div class="flex flex-col gap-6" data-aos="fade-up" data-aos-delay="200">
             <div class="bg-white shadow-lg rounded-lg p-4">
                  <div class="flex flex-row justify-between">
                     <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Semester 6</h2>
@@ -154,7 +154,7 @@
                 </ul>
             </div>
         </div>
-        <div class="bg-white shadow-lg rounded-lg p-4">
+        <div class="bg-white shadow-lg rounded-lg p-4" data-aos="fade-up" data-aos-delay="200">
              <div class="flex flex-row justify-between">
                 <h2 class="text-xl font-semibold text-[#0077CC] mb-3">Matakuliah Pilihan</h2>
                 <a href="">
