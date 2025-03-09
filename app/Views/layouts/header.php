@@ -22,7 +22,7 @@
             x-data="{ mobileMenuIsOpen: false }" @click.away="mobileMenuIsOpen = false">
 
             <div class="flex-1">
-                 <img src="images/navbar-logo.png" alt="navbar-logo" class="w-[120px] md:w-[160px] lg:w-[180px]">
+                 <img src="/images/navbar-logo.png" alt="navbar-logo" class="w-[140px] md:w-[180px] lg:w-[210px]">
                  <a href="http://127.0.0.1:8080">
                 </a>
             </div>
@@ -153,15 +153,7 @@
                 <li class="p-2"><a href="http://127.0.0.1:8080/contact"
                         class="w-full text-slate-800 focus:underline hover:text-[#0077CC]">Kontak</a></li>
                 <hr role="none" class="my-2 border-outline dark:border-slate-700">
-                <!-- CTA Button -->
-                <!-- <li class="mt-2 w-full border-none grid grid-cols-2 gap-1">
-                    <a href="http://127.0.0.1:8080/register"
-                        class="rounded-xl border border-[#0077CC] px-4 py-2 block text-center font-medium tracking-wide text-[#0077CC] hover:opacity-75 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-700 active:opacity-100 active:outline-offset-0">
-                        Daftar
-                    </a>
-                    <a href="http://127.0.0.1:8080/login"
-                        class="rounded-xl bg-[#0077CC] border px-4 py-2 block text-center font-medium tracking-wide text-slate-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 ">Masuk</a>
-                </li> -->
+                
             </ul>
         </nav>
     </header>

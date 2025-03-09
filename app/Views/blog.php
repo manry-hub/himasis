@@ -4,7 +4,7 @@
                <div class="text-center" data-aos="fade-up">
                     <p class="font-semibold">Informasi Terkini</p>
                     <h2 class="inline-block max-w-2xl font-bold text-xl md:text-3xl text-[#0077CC]">
-                         Informasi Terkini Seputar Himpunan Mahasiswa Informatika
+                         Informasi Terkini Seputar Himpunan Mahasiswa Sitem Informasi Industri Otomotif
                     </h2>
                </div>
           </section>
@@ -23,9 +23,9 @@
                               <option hidden>Kategori</option>
 
                               <!-- ganti jadi per periode -->
-                              <option value="semua" selected>Periode</option>
-                              <option value="after_event">After Event</option>
-                              <option value="prestasi">Prestasi</option>
+                              <option value="semua" selected>2025</option>
+                              <option value="after_event">2024</option>
+                              <option value="prestasi">2023</option>
                          </select>
                     </form>
                </div>

@@ -1,12 +1,13 @@
 <?= $this->include('layouts/header') ?>
 
 <section class="mx-auto max-w-[1536px] lg:px-4 mt-12 md:mt-24 bg-center h-[600px] text-white bg-red ">
-    <div style="background-image: url('images/hero-bg.png');"
+    <div style="background-image: url('/images/hero-bg1.png');"
         class="px-4 lg:mx-16 lg:rounded-[40px] h-full bg-cover bg-center bg-black">
         <div class="h-full flex flex-col justify-center items-center gap-4 text-center" data-aos="fade-up">
             <div class="flex flex-col gap-3" data-aos="fade-up">
                 <figure class="flex flex-col items-center">
-                    <img src="images/logo_himaif.png" alt="logo-himaif" class="mb-8 w-14 md:w-16 lg:w-20">
+                    <img src="/images/logo-himasis.png" alt="logo-himasis" class="mb-8 w-14 md:w-16 lg:w-20 bg-none">
+
                     <figcaption class="text-3xl md:text-4xl lg:text-5xl font-bold"><span
                             class="text-[#0077CC]">HIMASIS</span>
                        STMI</figcaption>
@@ -45,13 +46,12 @@
             data-aos="fade-up" data-aos-delay="100">
             <div class="flex flex-col lg:flex-row items-center gap-2">
                 <div class="w-11 bg-[#0077CC] rounded-full p-2">
-                    <img src="svg/pendidikan.svg" alt="icon-pendidikan" class="w-full">
+                    <img src="/images/logo-divisi.png" alt="icon-pendidikan" class="w-full white">
                 </div>
                 <p class="text-lg font-bold md:text-2xl">Akademik</p>
             </div>
             <div>
-                <p>Divisi Akademik bertanggung jawab dalam mengurus aspek yang berkaitan dengan akademis
-                    mahasiswa program studi Sistem Informasi Industri Otomotif.</p>
+                <p>Divisi akademik bertanggung jawab dalam meningkatkan kualitas akademik mahasiswa melalui berbagai program, seperti mentoring, study club, serta riset dan pengembangan.</p>
             </div>
         </div>
 
@@ -61,12 +61,12 @@
         Mahasiswa Informatika." data-aos="fade-up" data-aos-delay="200">
             <div class="flex flex-col lg:flex-row items-center gap-2">
                 <div class="w-11 bg-[#0077CC] rounded-full p-2">
-                    <img src="svg/inti.svg" alt="icon-inti" class="w-full">
+                    <img src="/images/logo-divisi.png" alt="icon-inti" class="w-full">
                 </div>
                 <p class="text-lg font-bold md:text-2xl">PSDM</p>
             </div>
             <div>
-                <p>PSDM bertanggung jawab untuk mengawasi dan mengarahkan seluruh aspek sumber daya manusia yang ada dalam Himasis.</p>
+                <p>PSDM bertanggung jawab untuk mengawasi dan mengarahkan seluruh aspek sumber daya manusia yang ada dalam Himasis supaya berjalan dengan baik dan lancar</p>
             </div>
         </div>
 
@@ -75,12 +75,12 @@
                     Informatika." data-aos="fade-up" data-aos-delay="400">
             <div class="flex flex-col lg:flex-row items-center gap-2">
                 <div class="w-11 bg-[#0077CC] rounded-full p-2">
-                    <img src="svg/mibat.svg" alt="icon-mibat" class="w-full">
+                    <img src="/images/logo-divisi.png" alt="icon-mibat" class="w-full">
                 </div>
                 <p class="text-lg font-bold md:text-2xl">Inti</p>
             </div>
             <div>
-                <p>BPH inti bertanggung jawab untuk mengawasi dan mengarahkan seluruh aspek yang ada dalam Himasis.</p>
+                <p>BPH inti bertanggung bertanggung jawab atas perencanaan strategis, pengelolaan administrasi, serta pengawasan keuangan agar organisasi dapat beroperasi secara terukur.</p>
             </div>
         </div>
 
@@ -90,14 +90,14 @@
                     kampus program studi Informatika." data-aos="fade-up" data-aos-delay="600">
             <div class="flex flex-col lg:flex-row items-center gap-2">
                 <div class="w-11 bg-[#0077CC] rounded-full p-2">
-                    <img src="svg/kesma.svg" alt="icon-kesma" class="w-full">
+                    <img src="/images/logo-divisi.png" alt="icon-kesma" class="w-full">
                 </div>
                 <p class="text-lg font-bold md:text-2xl">KWU</p>
             </div>
             <div>
-                <p>Divisi Kewirahusaan  bertanggung jawab untuk menjaga kesejahteraan mahasiswa dan
-                    lingkungan
-                    kampus program studi Informatika. </p>
+                <p>Divisi kewirausahaan berperan dalam menumbuhkan jiwa wirausaha di kalangan mahasiswa dan membantu dalam mencari sumber pendanaan bagi kegiatan Himasis.
+
+ </p>
             </div>
         </div>
 
@@ -107,13 +107,12 @@
                     pengabdian masyarakat program studi Informatika." data-aos="fade-up" data-aos-delay="800">
             <div class="flex flex-col lg:flex-row items-center gap-2">
                 <div class="w-11 bg-[#0077CC] rounded-full p-2">
-                    <img src="svg/humas.svg" alt="icon-humas" class="w-full">
+                    <img src="/images/logo-divisi.png" alt="icon-humas" class="w-full">
                 </div>
                 <p class="text-lg font-bold md:text-2xl">Medinkom</p>
             </div>
             <div>
-                <p>Divisi Medinkom bertanggung jawab atas penyebaran dan penerimaan informasi serta
-                    pengabdian masyarakat program studi Informatika. </p>
+                <p>Divisi Medinkom bertanggung jawab dalam mengelola publikasi serta dokumentasi seluruh kegiatan organisasi agar informasi tersampaikan dengan baik. </p>
             </div>
         </div>
     </div>
@@ -242,9 +241,8 @@ WA : 082272346633</p>" url="https://himaif-udayana.com/news/oprec-panitia-supr
                     data-aos-delay="100" url="images/optimus.webp" title="OPTIMUS 2024" description="Pengenalan kehidupan lingkungan kampus, pengakraban, dan pelatihan
                 programming untuk mahasiswa baru program studi Informatika.">
                     <div class=" text-white relative z-10 flex flex-col gap-2">
-                        <h3 class="text-xl font-bold">OPTIMUS 2024</h3>
-                        <p class="text-sm">Pengenalan kehidupan lingkungan kampus, pengakraban, dan pelatihan
-                            programming untuk mahasiswa baru program studi Informatika.</p>
+                        <h3 class="text-xl font-bold">TWITTER</h3>
+                        <p class="text-sm">Pengenalan dan Pengakraban untuk mahasiswa baru serta kaderisasi untuk merekrut anggota baru HIMASIS.</p>
                     </div>
                     <div
                         class="h-full w-full absolute bg-gradient-to-t from-[#000]/80 to-blue-[#000]/0 top-0 left-0 rounded-xl">
@@ -257,10 +255,8 @@ WA : 082272346633</p>" url="https://himaif-udayana.com/news/oprec-panitia-supr
                     description="Kegiatan yang bertujuan untuk melakukan pendataan minat dan bakat mahasiswa
                 baru di lingkungan Program Studi Informatika.">
                     <div class=" text-white relative z-10 flex flex-col gap-2">
-                        <h3 class="text-xl font-bold">SURVEI MINAT BAKAT</h3>
-                        <p class="text-sm">Kegiatan yang bertujuan untuk melakukan pendataan minat dan bakat
-                            mahasiswa
-                            baru di lingkungan Program Studi Informatika.</p>
+                        <h3 class="text-xl font-bold">Kunjungan Industri</h3>
+                        <p class="text-sm">kegiatan pembelajaran di luar kampus yang dilakukan mahasiswa untuk melihat langsung proses produksi atau kondisi industri.</p>
                     </div>
                     <div
                         class="h-full w-full absolute bg-gradient-to-t from-[#000]/80 to-blue-[#000]/0 top-0 left-0 rounded-xl">
@@ -272,11 +268,10 @@ WA : 082272346633</p>" url="https://himaif-udayana.com/news/oprec-panitia-supr
                     data-aos-delay="300" url="images/invention.webp" title="INVENTION 2023" description="Informatics Festival and Competitions adalah perlombaan yang bertujuan untuk
                 menambah wawasan dan kreativitas siswa SMA/SMK/Sederajat serta Mahasiswa seluruh Indonesia.">
                     <div class=" text-white relative z-10 flex flex-col gap-2">
-                        <h3 class="text-xl font-bold">INVENTION 2023</h3>
-                        <p class="text-sm">Informatics Festival and Competitions adalah perlombaan yang
+                        <h3 class="text-xl font-bold">Dies Natalis</h3>
+                        <p class="text-sm">Dies Natalis adalah perlombaan yang
                             bertujuan untuk
-                            menambah wawasan dan kreativitas siswa SMA/SMK/Sederajat serta Mahasiswa seluruh
-                            Indonesia.</p>
+                            menambah wawasan dan kreativitas Mahasiswa Sistem Informasi Industri Otomotif</p>
                     </div>
                     <div
                         class="h-full w-full absolute bg-gradient-to-t from-[#000]/80 to-blue-[#000]/0 top-0 left-0 rounded-xl">
@@ -288,10 +283,8 @@ WA : 082272346633</p>" url="https://himaif-udayana.com/news/oprec-panitia-supr
                     data-aos-delay="400" url="images/webnas.webp" title="WEBNAS 2023" description="Seminar online yang disiarkan secara langsung dan mengundang pembicara yang
                 akan memaparkan materi sesuai dengan tema yang ditentukan.">
                     <div class=" text-white relative z-10 flex flex-col gap-2">
-                        <h3 class="text-xl font-bold">WEBNAS 2023</h3>
-                        <p class="text-sm">Seminar online yang disiarkan secara langsung dan mengundang
-                            pembicara yang
-                            akan memaparkan materi sesuai dengan tema yang ditentukan.</p>
+                        <h3 class="text-xl font-bold">Study Club</h3>
+                        <p class="text-sm">Kegiatan pelatihan (frontend/backend) dimaksudkan untuk meningkatkan kemampuan IT kepada seluruh mahasiswa SIIO.</p>
                     </div>
                     <div
                         class="h-full w-full absolute bg-gradient-to-t from-[#000]/80 to-blue-[#000]/0 top-0 left-0 rounded-xl">

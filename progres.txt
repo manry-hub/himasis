@@ -1,0 +1,23 @@
+Frontend
+footer 
+header 
+Home 
+profile
+divisi
+artikel
+blog
+matkul
+faq
+kontak
+
+backend
+footer /
+header /
+Home
+profile
+divisi
+artikel
+blog
+matkul
+faq
+kontak

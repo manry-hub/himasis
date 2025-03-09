@@ -4,7 +4,7 @@
         <div class="text-center" data-aos="fade-up">
     <p class="font-semibold">Divisi Kami</p>
     <h2 class="inline-block max-w-2xl font-bold text-xl md:text-3xl text-[#0077CC]">
-        Divisi di Himpunan Mahasiswa Informatika
+        Divisi di Himpunan Mahasiswa Sistem Informasi Industri Otomotif
     </h2>
 </div>
     </section>
@@ -13,16 +13,14 @@
     <section class="mx-auto flex flex-col items-center max-w-[1536px] px-6 md:px-10 lg:px-20 pt-8 md:pt-12">
         
         <div class="flex flex-col items-center text-center gap-2" data-aos='fade-up' data-aos-delay='100'>
-            <h2 class="text-2xl text-[#0077CC] font-bold scroll-mt-24" id="inti">INTI HIMAIF 2024</h2>
+            <h2 class="text-2xl text-[#0077CC] font-bold scroll-mt-24" id="inti">BPH INTI 2025</h2>
             <p class="text-justify md:text-center">Pengurus Inti memiliki peran penting dalam merencanakan, mengorganisir,
                 dan mengawasi kegiatan
                 organisasi secara keseluruhan. Mereka memastikan kelancaran kegiatan, memantau kinerja divisi-divisi, dan
                 mendorong partisipasi anggota. Selain itu, Pengurus Inti juga mewakili organisasi dalam kegiatan eksternal.
-                Struktur Pengurus Inti HIMAIF meliputi <span class="font-semibold">Ketua, Wakil Ketua I, Wakil Ketua II,
-                    Sekretaris I, Sekretaris II, Keuangan I, dan Keuangan II </span>.</p>
+                Struktur Pengurus Inti HIMAIF meliputi <span class="font-semibold">Ketua, Wakil Ketua
+                    Sekretaris I, Sekretaris II, Bendahara I, dan Bendahara II </span>.</p>
         </div>
-
-        
         <div class="grid w-full gap-y-4 mb-6 md:grid-cols-12">
             
             <div class="col-span-1 md:col-span-12 place-self-center" data-aos="fade-up"
@@ -31,7 +29,6 @@
                     <img src="https://himaif-udayana.com/images/hirearki/card(1).png" alt="" width="200px">
                 </div>
             </div>
-            
                             <div class="col-span-1 md:col-span-6 place-self-center" data-aos="fade-up"
                     data-aos-delay="200">
                     <div>

@@ -4,7 +4,9 @@
                <div class="text-center" data-aos="fade-up">
                     <p class="font-semibold">Artikel terbaru</p>
                     <h2 class="inline-block max-w-2xl font-bold text-xl md:text-3xl text-[#0077CC]">
-                         urusan si nabil sama hana
+                         urusan sepuh"
+                         <br>      
+                         si nabil sama si hana
                     </h2>
                </div>
           </section>
